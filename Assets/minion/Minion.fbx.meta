@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: 437f77e34e8fa9940a7858a38115a1e8
+timeCreated: 1444395101
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Belt
+    100002: Body
+    100004: Body_MeshPart0
+    100006: Body_MeshPart1
+    100008: Down
+    100010: Eyes
+    100012: Glass
+    100014: Glass_MeshPart0
+    100016: Glass_MeshPart1
+    100018: Glass_MeshPart2
+    100020: Glass_MeshPart3
+    100022: Glass_MeshPart4
+    100024: Glass_MeshPart5
+    100026: Glass_MeshPart6
+    100028: Hair
+    100030: Left arm
+    100032: Left Eye
+    100034: Left Forearm
+    100036: Left Hand
+    100038: Left Shoe
+    100040: //RootNode
+    100042: Overalls
+    100044: Right Arm
+    100046: Right Forearm
+    100048: Right Hand
+    100050: Right Shoe
+    100052: RightEyes
+    100054: Shoes
+    100056: TEETH
+    100058: Tongue
+    100060: Up
+    100062: Up_MeshPart0
+    100064: Up_MeshPart1
+    400000: Belt
+    400002: Body
+    400004: Body_MeshPart0
+    400006: Body_MeshPart1
+    400008: Down
+    400010: Eyes
+    400012: Glass
+    400014: Glass_MeshPart0
+    400016: Glass_MeshPart1
+    400018: Glass_MeshPart2
+    400020: Glass_MeshPart3
+    400022: Glass_MeshPart4
+    400024: Glass_MeshPart5
+    400026: Glass_MeshPart6
+    400028: Hair
+    400030: Left arm
+    400032: Left Eye
+    400034: Left Forearm
+    400036: Left Hand
+    400038: Left Shoe
+    400040: //RootNode
+    400042: Overalls
+    400044: Right Arm
+    400046: Right Forearm
+    400048: Right Hand
+    400050: Right Shoe
+    400052: RightEyes
+    400054: Shoes
+    400056: TEETH
+    400058: Tongue
+    400060: Up
+    400062: Up_MeshPart0
+    400064: Up_MeshPart1
+    2300000: Belt
+    2300002: Body_MeshPart0
+    2300004: Body_MeshPart1
+    2300006: Down
+    2300008: Glass_MeshPart0
+    2300010: Glass_MeshPart1
+    2300012: Glass_MeshPart2
+    2300014: Glass_MeshPart3
+    2300016: Glass_MeshPart4
+    2300018: Glass_MeshPart5
+    2300020: Glass_MeshPart6
+    2300022: Hair
+    2300024: Left arm
+    2300026: Left Eye
+    2300028: Left Hand
+    2300030: Left Shoe
+    2300032: Overalls
+    2300034: Right Arm
+    2300036: Right Hand
+    2300038: Right Shoe
+    2300040: RightEyes
+    2300042: Tongue
+    2300044: Up_MeshPart0
+    2300046: Up_MeshPart1
+    3300000: Belt
+    3300002: Body_MeshPart0
+    3300004: Body_MeshPart1
+    3300006: Down
+    3300008: Glass_MeshPart0
+    3300010: Glass_MeshPart1
+    3300012: Glass_MeshPart2
+    3300014: Glass_MeshPart3
+    3300016: Glass_MeshPart4
+    3300018: Glass_MeshPart5
+    3300020: Glass_MeshPart6
+    3300022: Hair
+    3300024: Left arm
+    3300026: Left Eye
+    3300028: Left Hand
+    3300030: Left Shoe
+    3300032: Overalls
+    3300034: Right Arm
+    3300036: Right Hand
+    3300038: Right Shoe
+    3300040: RightEyes
+    3300042: Tongue
+    3300044: Up_MeshPart0
+    3300046: Up_MeshPart1
+    4300000: Body_MeshPart0
+    4300002: Body_MeshPart1
+    4300004: Overalls
+    4300006: Glass_MeshPart0
+    4300008: Glass_MeshPart1
+    4300010: Glass_MeshPart2
+    4300012: Glass_MeshPart3
+    4300014: Glass_MeshPart4
+    4300016: Glass_MeshPart5
+    4300018: Glass_MeshPart6
+    4300020: Belt
+    4300022: Tongue
+    4300024: Right Shoe
+    4300026: Left Shoe
+    4300028: Right Hand
+    4300030: Right Arm
+    4300032: Left Hand
+    4300034: Left arm
+    4300036: Up_MeshPart0
+    4300038: Up_MeshPart1
+    4300040: Down
+    4300042: Hair
+    4300044: Left Eye
+    4300046: RightEyes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,72 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 5 5.0.5.1846 Release
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl lmp030_metall__V
+Ka 0 0 0
+Kd 0.501961 0.364706 0.219608
+Ks 1 1 1
+illum 2
+Ns 1024
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lmp030_white_pla
+Ka 0.854902 0.854902 0.854902
+Kd 0.854902 0.854902 0.854902
+Ks 0.854902 0.854902 0.854902
+illum 2
+Ns 32
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lmp030_light__Vr
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+illum 2
+Ns 128
+d 0.1
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl lmp030_glass__Vr
+Ka 0.866667 0.827451 0.745098
+Kd 0.866667 0.827451 0.745098
+Ks 0.866667 0.827451 0.745098
+illum 2
+Ns 128
+d 0.5
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
